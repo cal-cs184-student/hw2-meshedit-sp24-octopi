@@ -2,7 +2,7 @@
 # Homework 2: MeshEdit
 
 [GITHUB LINK](https://github.com/cal-cs184-student/hw2-meshedit-sp24-octopi)
-[SUBMISSION LINK](https://cs184.eecs.berkeley.edu/sp24/p/muuncakez/assignment/5)
+<br> [SUBMISSION LINK](https://cs184.eecs.berkeley.edu/sp24/p/muuncakez/assignment/5)
 
 ## ══✿══╡°˖✧✿✧˖°╞══✿══ OVERVIEW ══✿══╡°˖✧✿✧˖°╞══✿══	
 > Give a high-level overview of what you have implemented in this assignment. Think about what you have built as a whole. Share your thoughts on what interesting things you have learned from completing this assignment. <br>
