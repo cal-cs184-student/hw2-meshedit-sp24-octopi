@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sh5wcqPS)
 # Homework 2: MeshEdit
 
-[ADD GITHUB LINK]
-[ADD SUBMISSION LINK]
+[GITHUB LINK](https://github.com/cal-cs184-student/hw2-meshedit-sp24-octopi)
+[SUBMISSION LINK](https://cs184.eecs.berkeley.edu/sp24/p/muuncakez/assignment/5)
 
 ## ══✿══╡°˖✧✿✧˖°╞══✿══ OVERVIEW ══✿══╡°˖✧✿✧˖°╞══✿══	
 > Give a high-level overview of what you have implemented in this assignment. Think about what you have built as a whole. Share your thoughts on what interesting things you have learned from completing this assignment. <br>
